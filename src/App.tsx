@@ -39,6 +39,7 @@ function App() {
           Oscar goes to Leonardo Dicaprio!
         </Heading>
       </Oscar>
+      <Greet  name='Vishwas' isLoggedIn={false}/>
     </div>
   );
 }
